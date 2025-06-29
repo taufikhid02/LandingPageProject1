@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="flex justify-between items-center text-white h-24 mx-auto px-4 bg-black">
+    <div className="flex justify-between items-center text-white h-24 mx-auto px-4 bg-pink-50">
       <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">REACT.</h1>
       <ul className="hidden sm:flex">
         <li className="p-4">
